@@ -5,7 +5,9 @@ Using the demo "poke" application by Richard Jones: https://github.com/RJ/erlang
 
 The original instructions, using rebar instad of erlang.mk: http://www.metabrew.com/article/erlang-rebar-tutorial-generating-releases-upgrades
 
-Readme for erlang.mk (and relx): https://github.com/ninenines/erlang.mk/blob/master/README.md
+About erlang.mk (and relx): 
+- https://github.com/ninenines/erlang.mk/blob/master/README.md
+- http://ninenines.eu/articles/erlang.mk-and-relx/
 
 To download erlang.mk into an application root folder:
 
